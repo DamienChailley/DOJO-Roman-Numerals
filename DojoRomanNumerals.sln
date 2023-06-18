@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoRomanNumerals", "DojoRomanNumerals\DojoRomanNumerals.csproj", "{B840504E-BF5B-430A-829F-AB44A4DE408A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DojoRomanNumeralsUnitTests", "DojoRomanNumeralsUnitTests\DojoRomanNumeralsUnitTests.csproj", "{2EECCE49-0345-4476-B2AD-173EF20084E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B840504E-BF5B-430A-829F-AB44A4DE408A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B840504E-BF5B-430A-829F-AB44A4DE408A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B840504E-BF5B-430A-829F-AB44A4DE408A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B840504E-BF5B-430A-829F-AB44A4DE408A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EECCE49-0345-4476-B2AD-173EF20084E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EECCE49-0345-4476-B2AD-173EF20084E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EECCE49-0345-4476-B2AD-173EF20084E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EECCE49-0345-4476-B2AD-173EF20084E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161568CE-199B-4197-82F8-D42785421FBC}
+	EndGlobalSection
+EndGlobal
